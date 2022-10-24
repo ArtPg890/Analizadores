@@ -5,7 +5,6 @@ import java.util.ArrayList;
 /**
  * Clase usada para almacenar los tokens
  *
- * @author Juan José Silva López
  * @author Arturo Guzmán Ávila
  */
 public class TablaDeTokens {

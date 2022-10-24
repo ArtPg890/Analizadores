@@ -2,7 +2,7 @@ package analizadores;
 
 /**
  *
- * @author Juanjo
+ * @author Arturo Guzmán Ávila
  */
 public class Token {
 

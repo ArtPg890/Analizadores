@@ -6,7 +6,6 @@ import java.awt.event.AdjustmentListener;
 /**
  * Clase utilizada para mostrar el resultado de análisis sintáctico
  * 
- * @author Juan José Silva López
  * @author Arturo Guzmán Ávila
  * @version 1.0
  */

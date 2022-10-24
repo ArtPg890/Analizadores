@@ -4,7 +4,6 @@ package analizadores;
  *
  * Clase donde se enumeran los Tokens que retornará la clase "Lexer.java"
  *
- * @author Juan José Silva López
  * @author Arturo Guzmán Ávila
  * @version 1.0
  */

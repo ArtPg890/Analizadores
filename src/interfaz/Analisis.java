@@ -5,7 +5,6 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Juan José Silva López
  * @author Arturo Guzmán Ávila
  * @version 1.0
  */

@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * Clase usada para almacenar los errores léxicos y sintácticos que se vayan
  * identificando
  *
- * @author Juan José Silva López
  * @author Arturo Guzmán Ávila
  */
 public class TablaErrores {

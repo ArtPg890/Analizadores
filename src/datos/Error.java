@@ -3,7 +3,6 @@ package datos;
 /**
  * Clase utilizada para guardar la información de un error léxico o sintáctico
  *
- * @author Juan José Silva López
  * @author Arturo Guzmán Ávila
  */
 public class Error {

@@ -3,7 +3,6 @@ package tabla;
 /**
  * Clase que guarda los datos de los símbolos en la tabla de símbolos
  *
- * @author Juan José Silva López
  * @author Arturo Guzmán Avila
  * @version 1.0
  */

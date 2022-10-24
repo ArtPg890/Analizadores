@@ -6,7 +6,7 @@ package analizadores;
 
 /**
  *
- * @author Arturo
+ * @author Arturo Guzmán Ávila
  */
 public class Analizador_Semantico {
 

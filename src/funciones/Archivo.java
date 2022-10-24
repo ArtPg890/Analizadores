@@ -16,7 +16,6 @@ import javax.swing.filechooser.FileNameExtensionFilter;
  * Clase utilizada para obtener información de un archivo, guardarlo, guardarlo
  * como...
  *
- * @author Juan José Silva López
  * @author Arturo Guzmán Ávila
  * @version 1.0
  */
