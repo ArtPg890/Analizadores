@@ -21,7 +21,7 @@ public class AnalizadorSintactico {
 
     private final String[] noTerminales = new String[]{"P'", "P", "P", "Tipo", "Tipo", "Tipo", "V", "V", "A", "Exp", "E", "E", "E", "Term", "T", "T", "T", "F", "F", "F"};
 
-    private final String[] esperas = new String[]{"id, int, float, char", " ", "id", " ", "id", "id", "id", "=", ", ;", "id + - ( num", " ", "id", "id int float char", ";", ";", "id ( num", "id ( num", "= * /", "= * /", "id + - ( num", "; * /", ", ;", " ", " ", ";", ";", ";", ";", "id ( num", "id ( num", ")", ")", "id ( num", "id ( num", "* / )", "* / )", "id + - ( num", "* / )", " ", ";", ";", "; * /", "; * /", "; * /", ")", ")", ")", ")", "id num", "id num", ")", ";", ";", ")", ")", "* / )", "* / )", "* / )", ")", ")"};
+    private final String[] esperas = new String[]{"id, int, float, char", " ", "id", " ", "id", "id", "id", "=", ", ;", "id + - ( num", " ", "id", "id int float char", ";", ";", "id ( num", "id ( num", "; * /", "; * /", "id + - ( num", "; * /", ", ;", " ", " ", ";", ";", ";", ";", "id ( num", "id ( num", ")", ")", "id ( num", "id ( num", "* / )", "* / )", "id + - ( num", "* / )", " ", ";", ";", "; * /", "; * /", "; * /", ")", ")", ")", ")", "id num", "id num", ")", ";", ";", ")", ")", "* / )", "* / )", "* / )", ")", ")"};
 
     private final String[][] tabla = new funciones.LeerTabla().get();
 
